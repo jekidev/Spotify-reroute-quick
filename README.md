@@ -1,5 +1,6 @@
 # Spotify Reroute Quick
 
-Spotify API-based template for development with my Spotify profile and data,, bla bla a
+A lightweight coding template for working with the Spotify Web API and my Spotify profile data.
 
-[Spotify Profile](https://open.spotify.com/user/11121480395?si=9LiAGM9nQzGidjLPBFg2vg&utm_source=copy-link)
+- [Spotify Web API examples](https://github.com/spotify/web-api-examples)
+- [My Spotify profile](https://open.spotify.com/user/11121480395?si=9LiAGM9nQzGidjLPBFg2vg&utm_source=copy-link)
