@@ -1,4 +1,4 @@
-# Spotify Reroute Quick
+# Spotify Reroute Quick Private 
 
 A lightweight coding template for working with Spotify Web API and development blå bla a,.
 
